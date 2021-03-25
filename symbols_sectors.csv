@@ -1,0 +1,1476 @@
+symbol,sector,sector_id
+AAB.TO,Financial Services,0
+AAV.TO,Energy,1
+ABST.TO,Technology,2
+ABX.TO,Basic Materials,3
+AC.TO,Industrials,4
+ACB.TO,Healthcare,5
+ACD.TO,Financial Services,0
+ACQ.TO,Consumer Cyclical,6
+ACZ.TO,unkown,7
+ADN.TO,Basic Materials,3
+AEG.TO,Consumer Cyclical,6
+AEM.TO,Basic Materials,3
+AEZS.TO,Healthcare,5
+AFN.TO,Industrials,4
+AGI.TO,Basic Materials,3
+AH.TO,Healthcare,5
+AHC.TO,Consumer Defensive,8
+AI.TO,Financial Services,0
+AIF.TO,Real Estate,9
+AII.TO,Basic Materials,3
+AIM.TO,Industrials,4
+AJX.TO,Technology,2
+AKU.TO,Healthcare,5
+ALA.TO,Utilities,10
+ALC.TO,Industrials,4
+ALFA.TO,unkown,7
+ALS.TO,Basic Materials,3
+ALYA.TO,Technology,2
+AMM.TO,Basic Materials,3
+AND.TO,Healthcare,5
+ANX.TO,Basic Materials,3
+AOI.TO,Energy,1
+AOT.TO,Basic Materials,3
+APHA.TO,Healthcare,5
+APLI.TO,Healthcare,5
+APS.TO,Healthcare,5
+APY.TO,Basic Materials,3
+AQA.TO,Basic Materials,3
+AQN.TO,Utilities,10
+AR.TO,Basic Materials,3
+ARB.TO,unkown,7
+ARE.TO,Industrials,4
+ARG.TO,Basic Materials,3
+ARIS.TO,Basic Materials,3
+ARX.TO,Energy,1
+ASM.TO,Basic Materials,3
+ASND.TO,Basic Materials,3
+ASP.TO,Healthcare,5
+AT.TO,Communication Services,11
+ATA.TO,Industrials,4
+ATE.TO,Healthcare,5
+ATH.TO,Energy,1
+ATP.TO,Utilities,10
+ATSX.TO,unkown,7
+ATZ.TO,Consumer Cyclical,6
+AUMN.TO,Basic Materials,3
+AUP.TO,Healthcare,5
+AVCN.TO,Healthcare,5
+AVL.TO,Basic Materials,3
+AVP.TO,Industrials,4
+AXU.TO,Basic Materials,3
+AYA.TO,Basic Materials,3
+AYM.TO,Basic Materials,3
+AZG.TO,Basic Materials,3
+AZZ.TO,Energy,1
+BAD.TO,Industrials,4
+BASE.TO,unkown,7
+BB.TO,Technology,2
+BBTV.TO,Communication Services,11
+BCE.TO,Communication Services,11
+BCI.TO,Consumer Cyclical,6
+BDI.TO,Industrials,4
+BDIV.TO,unkown,7
+BDT.TO,Industrials,4
+BEPC.TO,Utilities,10
+BESG.TO,unkown,7
+BFIN.TO,unkown,7
+BGC.TO,unkown,7
+BGU.TO,unkown,7
+BHC.TO,Healthcare,5
+BIPC.TO,Utilities,10
+BIR.TO,Energy,1
+BK.TO,Financial Services,0
+BKI.TO,Basic Materials,3
+BLCK.TO,unkown,7
+BLDP.TO,Industrials,4
+BLOV.TO,unkown,7
+BLU.TO,Healthcare,5
+BLX.TO,Utilities,10
+BMO.TO,Financial Services,0
+BNAU.TO,Basic Materials,3
+BNC.TO,unkown,7
+BND.TO,unkown,7
+BNE.TO,Energy,1
+BNG.TO,Energy,1
+BNK.TO,Financial Services,0
+BNS.TO,Financial Services,0
+BOS.TO,Basic Materials,3
+BPRF.TO,unkown,7
+BR.TO,Consumer Defensive,8
+BRAG.TO,Communication Services,11
+BRE.TO,Real Estate,9
+BREA.TO,unkown,7
+BRY.TO,Energy,1
+BSKT.TO,unkown,7
+BSX.TO,Basic Materials,3
+BTE.TO,Energy,1
+BTO.TO,Basic Materials,3
+BU.TO,Consumer Defensive,8
+BUI.TO,Industrials,4
+BXF.TO,unkown,7
+BYD.TO,Consumer Cyclical,6
+BYL.TO,Technology,2
+CACB.TO,unkown,7
+CAE.TO,Industrials,4
+CAFR.TO,unkown,7
+CAGG.TO,unkown,7
+CAGS.TO,unkown,7
+CALL.TO,unkown,7
+CARS.TO,unkown,7
+CAS.TO,Basic Materials,3
+CBH.TO,unkown,7
+CBND.TO,unkown,7
+CBO.TO,unkown,7
+CCA.TO,Communication Services,11
+CCM.TO,Basic Materials,3
+CCNS.TO,unkown,7
+CCO.TO,Energy,1
+CCOR.TO,unkown,7
+CCRE.TO,unkown,7
+CDAY.TO,Technology,2
+CDIV.TO,unkown,7
+CDLB.TO,unkown,7
+CDZ.TO,unkown,7
+CEE.TO,Basic Materials,3
+CEF.TO,unkown,7
+CERV.TO,Industrials,4
+CET.TO,Energy,1
+CEU.TO,Energy,1
+CEW.TO,unkown,7
+CF.TO,Financial Services,0
+CFF.TO,Basic Materials,3
+CFLX.TO,unkown,7
+CFP.TO,Basic Materials,3
+CFW.TO,Energy,1
+CFX.TO,Basic Materials,3
+CG.TO,Basic Materials,3
+CGAA.TO,unkown,7
+CGG.TO,Basic Materials,3
+CGI.TO,unkown,7
+CGL.TO,unkown,7
+CGLO.TO,unkown,7
+CGO.TO,Communication Services,11
+CGR.TO,unkown,7
+CGRA.TO,unkown,7
+CGRE.TO,unkown,7
+CGX.TO,Communication Services,11
+CGXF.TO,unkown,7
+CGY.TO,Industrials,4
+CHB.TO,unkown,7
+CHR.TO,Industrials,4
+CHW.TO,Financial Services,0
+CIA.TO,Basic Materials,3
+CIC.TO,unkown,7
+CIF.TO,unkown,7
+CIGI.TO,Real Estate,9
+CINF.TO,unkown,7
+CINT.TO,unkown,7
+CIX.TO,Financial Services,0
+CJ.TO,Energy,1
+CJT.TO,Industrials,4
+CLF.TO,unkown,7
+CLG.TO,unkown,7
+CLIQ.TO,Consumer Cyclical,6
+CLR.TO,unkown,7
+CLS.TO,Technology,2
+CM.TO,Financial Services,0
+CMAG.TO,unkown,7
+CMAR.TO,unkown,7
+CMCE.TO,unkown,7
+CMEY.TO,unkown,7
+CMG.TO,Technology,2
+CMGG.TO,unkown,7
+CMMC.TO,Basic Materials,3
+CMR.TO,unkown,7
+CMUE.TO,unkown,7
+CNE.TO,Energy,1
+CNQ.TO,Energy,1
+CNR.TO,Industrials,4
+CNT.TO,Consumer Defensive,8
+CNU.TO,Energy,1
+COG.TO,Basic Materials,3
+COMM.TO,unkown,7
+CORP.TO,unkown,7
+COW.TO,unkown,7
+CP.TO,Industrials,4
+CPD.TO,unkown,7
+CPG.TO,Energy,1
+CPH.TO,Healthcare,5
+CPI.TO,Energy,1
+CPLS.TO,unkown,7
+CPX.TO,Utilities,10
+CR.TO,Energy,1
+CRDL.TO,Healthcare,5
+CRED.TO,unkown,7
+CRH.TO,Healthcare,5
+CRON.TO,Healthcare,5
+CRP.TO,Industrials,4
+CRRX.TO,Healthcare,5
+CRWN.TO,Financial Services,0
+CS.TO,Basic Materials,3
+CSAV.TO,unkown,7
+CSD.TO,unkown,7
+CSM.TO,Energy,1
+CSU.TO,Technology,2
+CSY.TO,unkown,7
+CTC.TO,Consumer Cyclical,6
+CTS.TO,Technology,2
+CTX.TO,Healthcare,5
+CU.TO,Utilities,10
+CUD.TO,unkown,7
+CVD.TO,unkown,7
+CVE.TO,Energy,1
+CVG.TO,Financial Services,0
+CWB.TO,Financial Services,0
+CWEB.TO,Healthcare,5
+CWL.TO,Industrials,4
+CWW.TO,unkown,7
+CWX.TO,Basic Materials,3
+CXB.TO,Basic Materials,3
+CXF.TO,unkown,7
+CXI.TO,Financial Services,0
+CYB.TO,Financial Services,0
+CYBR.TO,unkown,7
+CYH.TO,unkown,7
+DANC.TO,unkown,7
+DATA.TO,unkown,7
+DBO.TO,Technology,2
+DCBO.TO,Technology,2
+DCC.TO,unkown,7
+DCG.TO,unkown,7
+DCM.TO,Industrials,4
+DCP.TO,unkown,7
+DCS.TO,unkown,7
+DCU.TO,unkown,7
+DF.TO,Financial Services,0
+DFC.TO,unkown,7
+DFD.TO,unkown,7
+DFE.TO,unkown,7
+DFN.TO,Financial Services,0
+DFU.TO,unkown,7
+DGR.TO,unkown,7
+DGRC.TO,unkown,7
+DGS.TO,Financial Services,0
+DIAM.TO,Basic Materials,3
+DISC.TO,unkown,7
+DIV.TO,Industrials,4
+DIVS.TO,unkown,7
+DLR.TO,unkown,7
+DML.TO,Energy,1
+DN.TO,Healthcare,5
+DND.TO,Technology,2
+DNG.TO,Basic Materials,3
+DNT.TO,Basic Materials,3
+DOL.TO,Consumer Defensive,8
+DOO.TO,Consumer Cyclical,6
+DPM.TO,Basic Materials,3
+DQD.TO,unkown,7
+DQI.TO,unkown,7
+DR.TO,Healthcare,5
+DRCU.TO,unkown,7
+DRDR.TO,Healthcare,5
+DRFC.TO,unkown,7
+DRFD.TO,unkown,7
+DRFE.TO,unkown,7
+DRFG.TO,unkown,7
+DRFU.TO,unkown,7
+DRM.TO,Real Estate,9
+DRMC.TO,unkown,7
+DRMD.TO,unkown,7
+DRMU.TO,unkown,7
+DRT.TO,Industrials,4
+DRX.TO,Industrials,4
+DS.TO,Financial Services,0
+DSG.TO,Technology,2
+DXB.TO,unkown,7
+DXC.TO,unkown,7
+DXF.TO,unkown,7
+DXG.TO,unkown,7
+DXM.TO,unkown,7
+DXN.TO,unkown,7
+DXO.TO,unkown,7
+DXP.TO,unkown,7
+DXT.TO,Industrials,4
+DXU.TO,unkown,7
+DXV.TO,unkown,7
+DXW.TO,unkown,7
+DXZ.TO,unkown,7
+DYA.TO,Industrials,4
+E.TO,Industrials,4
+EARN.TO,unkown,7
+ECN.TO,Financial Services,0
+ECO.TO,Basic Materials,3
+EDGE.TO,unkown,7
+EDGF.TO,unkown,7
+EDR.TO,Basic Materials,3
+EDT.TO,Healthcare,5
+EDV.TO,Basic Materials,3
+EFL.TO,Industrials,4
+EFN.TO,Industrials,4
+EFR.TO,Energy,1
+EFX.TO,Energy,1
+EGIF.TO,unkown,7
+EGLX.TO,Communication Services,11
+EHE.TO,unkown,7
+EIF.TO,Industrials,4
+ELD.TO,Basic Materials,3
+ELEF.TO,Basic Materials,3
+ELF.TO,Financial Services,0
+ELR.TO,Basic Materials,3
+ELV.TO,unkown,7
+EMA.TO,Utilities,10
+ENB.TO,Energy,1
+ENGH.TO,Technology,2
+ENS.TO,,12
+EOX.TO,Basic Materials,3
+EQB.TO,Financial Services,0
+EQL.TO,unkown,7
+EQX.TO,Basic Materials,3
+ERD.TO,Basic Materials,3
+ERF.TO,Energy,1
+ERO.TO,Basic Materials,3
+ESG.TO,unkown,7
+ESGA.TO,unkown,7
+ESGB.TO,unkown,7
+ESGC.TO,unkown,7
+ESGE.TO,unkown,7
+ESGF.TO,unkown,7
+ESGG.TO,unkown,7
+ESGY.TO,unkown,7
+ESI.TO,Energy,1
+ESM.TO,Basic Materials,3
+ESN.TO,Energy,1
+ET.TO,Technology,2
+ETG.TO,Basic Materials,3
+ETHI.TO,unkown,7
+ETP.TO,unkown,7
+ETX.TO,Utilities,10
+EUR.TO,unkown,7
+EVT.TO,,12
+EXE.TO,Healthcare,5
+EXF.TO,Technology,2
+EXN.TO,Basic Materials,3
+FAF.TO,Healthcare,5
+FAI.TO,unkown,7
+FAO.TO,unkown,7
+FAP.TO,Financial Services,0
+FAR.TO,Basic Materials,3
+FBE.TO,unkown,7
+FBU.TO,unkown,7
+FC.TO,Financial Services,0
+FCCB.TO,unkown,7
+FCCD.TO,unkown,7
+FCCL.TO,unkown,7
+FCCM.TO,unkown,7
+FCCQ.TO,unkown,7
+FCCV.TO,unkown,7
+FCGB.TO,unkown,7
+FCGI.TO,unkown,7
+FCHH.TO,unkown,7
+FCHY.TO,unkown,7
+FCID.TO,unkown,7
+FCIL.TO,unkown,7
+FCIM.TO,unkown,7
+FCIQ.TO,unkown,7
+FCIV.TO,unkown,7
+FCLH.TO,unkown,7
+FCMH.TO,unkown,7
+FCMI.TO,unkown,7
+FCMO.TO,unkown,7
+FCQH.TO,unkown,7
+FCRH.TO,unkown,7
+FCRR.TO,unkown,7
+FCSB.TO,unkown,7
+FCU.TO,Energy,1
+FCUD.TO,unkown,7
+FCUH.TO,unkown,7
+FCUL.TO,unkown,7
+FCUQ.TO,unkown,7
+FCUV.TO,unkown,7
+FCVH.TO,unkown,7
+FDE.TO,unkown,7
+FDV.TO,unkown,7
+FEC.TO,Energy,1
+FF.TO,Basic Materials,3
+FFH.TO,Financial Services,0
+FFN.TO,Financial Services,0
+FGB.TO,unkown,7
+FGGE.TO,unkown,7
+FGO.TO,unkown,7
+FHB.TO,unkown,7
+FHC.TO,unkown,7
+FHD.TO,unkown,7
+FHE.TO,unkown,7
+FHF.TO,unkown,7
+FHG.TO,unkown,7
+FHH.TO,unkown,7
+FHI.TO,unkown,7
+FHM.TO,unkown,7
+FHQ.TO,unkown,7
+FIE.TO,unkown,7
+FIG.TO,unkown,7
+FINO.TO,unkown,7
+FINT.TO,unkown,7
+FIRE.TO,Healthcare,5
+FLAM.TO,unkown,7
+FLB.TO,unkown,7
+FLBA.TO,unkown,7
+FLCD.TO,unkown,7
+FLCI.TO,unkown,7
+FLCP.TO,unkown,7
+FLDM.TO,unkown,7
+FLEM.TO,unkown,7
+FLGA.TO,unkown,7
+FLGD.TO,unkown,7
+FLI.TO,unkown,7
+FLJA.TO,unkown,7
+FLOT.TO,unkown,7
+FLRM.TO,unkown,7
+FLSD.TO,unkown,7
+FLUI.TO,unkown,7
+FLUR.TO,unkown,7
+FLUS.TO,unkown,7
+FM.TO,Basic Materials,3
+FN.TO,Financial Services,0
+FNV.TO,Basic Materials,3
+FOOD.TO,Consumer Cyclical,6
+FORZ.TO,Energy,1
+FOUR.TO,unkown,7
+FPR.TO,unkown,7
+FQC.TO,unkown,7
+FR.TO,Basic Materials,3
+FRII.TO,Consumer Cyclical,6
+FRU.TO,Energy,1
+FRX.TO,Healthcare,5
+FSB.TO,unkown,7
+FSF.TO,unkown,7
+FSL.TO,unkown,7
+FSR.TO,unkown,7
+FST.TO,unkown,7
+FSV.TO,Real Estate,9
+FSY.TO,Basic Materials,3
+FSZ.TO,Financial Services,0
+FT.TO,Basic Materials,3
+FTB.TO,unkown,7
+FTG.TO,Industrials,4
+FTN.TO,Financial Services,0
+FTS.TO,Utilities,10
+FTT.TO,Industrials,4
+FTU.TO,Financial Services,0
+FUD.TO,unkown,7
+FURY.TO,Basic Materials,3
+FVI.TO,Basic Materials,3
+FVL.TO,Basic Materials,3
+FXC.TO,Financial Services,0
+FXM.TO,unkown,7
+GATO.TO,Basic Materials,3
+GAU.TO,Basic Materials,3
+GBAL.TO,unkown,7
+GBAR.TO,Basic Materials,3
+GBT.TO,Consumer Cyclical,6
+GC.TO,Consumer Cyclical,6
+GCG.TO,Financial Services,0
+GCL.TO,Consumer Defensive,8
+GCM.TO,Basic Materials,3
+GCNS.TO,unkown,7
+GCT.TO,Communication Services,11
+GDC.TO,Real Estate,9
+GDEP.TO,unkown,7
+GDI.TO,Industrials,4
+GDL.TO,Basic Materials,3
+GDPY.TO,unkown,7
+GDV.TO,Financial Services,0
+GEI.TO,Energy,1
+GENM.TO,Basic Materials,3
+GEO.TO,Basic Materials,3
+GEQT.TO,unkown,7
+GFL.TO,Industrials,4
+GGA.TO,Basic Materials,3
+GGD.TO,Basic Materials,3
+GGRO.TO,unkown,7
+GH.TO,Consumer Cyclical,6
+GIL.TO,Consumer Cyclical,6
+GIQG.TO,unkown,7
+GIQU.TO,unkown,7
+GLG.TO,Consumer Defensive,8
+GLO.TO,Basic Materials,3
+GLXY.TO,Financial Services,0
+GMX.TO,Basic Materials,3
+GOLD.TO,Basic Materials,3
+GOOS.TO,Consumer Cyclical,6
+GPR.TO,Basic Materials,3
+GRC.TO,Basic Materials,3
+GSC.TO,Basic Materials,3
+GSV.TO,Basic Materials,3
+GSY.TO,Financial Services,0
+GTE.TO,Energy,1
+GTMS.TO,Healthcare,5
+GUD.TO,Healthcare,5
+GURU.TO,Consumer Defensive,8
+GVC.TO,Communication Services,11
+GWO.TO,Financial Services,0
+GWR.TO,Utilities,10
+GXE.TO,Energy,1
+H.TO,Utilities,10
+HAB.TO,unkown,7
+HAC.TO,unkown,7
+HAD.TO,unkown,7
+HAF.TO,unkown,7
+HAI.TO,Technology,2
+HAJ.TO,unkown,7
+HAL.TO,unkown,7
+HARB.TO,unkown,7
+HARC.TO,unkown,7
+HAU.TO,unkown,7
+HAZ.TO,unkown,7
+HBA.TO,unkown,7
+HBAL.TO,unkown,7
+HBB.TO,unkown,7
+HBD.TO,unkown,7
+HBF.TO,unkown,7
+HBGD.TO,unkown,7
+HBLK.TO,unkown,7
+HBM.TO,Basic Materials,3
+HBP.TO,Healthcare,5
+HBU.TO,unkown,7
+HCA.TO,unkown,7
+HCAL.TO,unkown,7
+HCG.TO,Financial Services,0
+HCLN.TO,unkown,7
+HCN.TO,unkown,7
+HCON.TO,unkown,7
+HCRE.TO,unkown,7
+HDGE.TO,unkown,7
+HDI.TO,Industrials,4
+HE.TO,Energy,1
+HED.TO,unkown,7
+HEE.TO,unkown,7
+HEF.TO,unkown,7
+HEJ.TO,unkown,7
+HEMB.TO,unkown,7
+HEP.TO,unkown,7
+HERO.TO,unkown,7
+HEU.TO,unkown,7
+HEWB.TO,unkown,7
+HEX.TO,unkown,7
+HEXO.TO,Healthcare,5
+HFD.TO,unkown,7
+HFG.TO,unkown,7
+HFP.TO,unkown,7
+HFR.TO,unkown,7
+HFT.TO,unkown,7
+HFU.TO,unkown,7
+HGD.TO,unkown,7
+HGGG.TO,unkown,7
+HGR.TO,unkown,7
+HGRO.TO,unkown,7
+HGY.TO,unkown,7
+HHF.TO,unkown,7
+HHL.TO,unkown,7
+HIG.TO,unkown,7
+HII.TO,unkown,7
+HIU.TO,unkown,7
+HIX.TO,unkown,7
+HLF.TO,Consumer Defensive,8
+HLPR.TO,unkown,7
+HLS.TO,Healthcare,5
+HMJI.TO,unkown,7
+HMJU.TO,unkown,7
+HMMJ.TO,unkown,7
+HMP.TO,unkown,7
+HNY.TO,unkown,7
+HOD.TO,unkown,7
+HOG.TO,unkown,7
+HPF.TO,unkown,7
+HPR.TO,unkown,7
+HQD.TO,unkown,7
+HQU.TO,unkown,7
+HRAA.TO,unkown,7
+HRT.TO,Basic Materials,3
+HRX.TO,Industrials,4
+HSAV.TO,unkown,7
+HSD.TO,unkown,7
+HSH.TO,unkown,7
+HSL.TO,unkown,7
+HSM.TO,Healthcare,5
+HSU.TO,unkown,7
+HTA.TO,unkown,7
+HTB.TO,unkown,7
+HTH.TO,unkown,7
+HUBL.TO,unkown,7
+HUC.TO,unkown,7
+HUG.TO,unkown,7
+HUIB.TO,unkown,7
+HUL.TO,unkown,7
+HULC.TO,unkown,7
+HUM.TO,unkown,7
+HUN.TO,unkown,7
+HURA.TO,unkown,7
+HUT.TO,Financial Services,0
+HUTL.TO,unkown,7
+HUV.TO,unkown,7
+HUZ.TO,unkown,7
+HWF.TO,unkown,7
+HWO.TO,Energy,1
+HWX.TO,Energy,1
+HXCN.TO,unkown,7
+HXD.TO,unkown,7
+HXDM.TO,unkown,7
+HXE.TO,unkown,7
+HXEM.TO,unkown,7
+HXF.TO,unkown,7
+HXH.TO,unkown,7
+HXQ.TO,unkown,7
+HXS.TO,unkown,7
+HXT.TO,unkown,7
+HXU.TO,unkown,7
+HXX.TO,unkown,7
+HYI.TO,unkown,7
+HZD.TO,unkown,7
+HZM.TO,Basic Materials,3
+HZU.TO,unkown,7
+IAG.TO,Financial Services,0
+IBG.TO,Industrials,4
+ICE.TO,Consumer Cyclical,6
+ICPB.TO,unkown,7
+IDG.TO,Consumer Cyclical,6
+IDR.TO,unkown,7
+IFA.TO,Consumer Cyclical,6
+IFC.TO,Financial Services,0
+IFP.TO,Basic Materials,3
+IFRF.TO,unkown,7
+IGAF.TO,unkown,7
+IGB.TO,unkown,7
+IGCF.TO,unkown,7
+IGLB.TO,unkown,7
+IGM.TO,Financial Services,0
+III.TO,Basic Materials,3
+ILV.TO,unkown,7
+IMG.TO,Basic Materials,3
+IMO.TO,Energy,1
+IMP.TO,Technology,2
+IMV.TO,Healthcare,5
+IN.TO,Healthcare,5
+INE.TO,Utilities,10
+INOC.TO,unkown,7
+INQ.TO,Consumer Cyclical,6
+INV.TO,Basic Materials,3
+IPCI.TO,Healthcare,5
+IPCO.TO,Energy,1
+IPL.TO,Energy,1
+IPO.TO,Energy,1
+IQD.TO,unkown,7
+ISIF.TO,unkown,7
+ISV.TO,Industrials,4
+ITE.TO,Energy,1
+ITH.TO,Basic Materials,3
+ITP.TO,Consumer Cyclical,6
+IVN.TO,Basic Materials,3
+IVQ.TO,Healthcare,5
+JAG.TO,Basic Materials,3
+JAPN.TO,unkown,7
+JE.TO,Utilities,10
+JOSE.TO,Basic Materials,3
+JOY.TO,Energy,1
+JWEL.TO,Consumer Defensive,8
+K.TO,Basic Materials,3
+KBL.TO,Industrials,4
+KEI.TO,Energy,1
+KEL.TO,Energy,1
+KEY.TO,Energy,1
+KILO.TO,unkown,7
+KITS.TO,Consumer Cyclical,6
+KL.TO,Basic Materials,3
+KLS.TO,Industrials,4
+KNT.TO,Basic Materials,3
+KOR.TO,Basic Materials,3
+KPT.TO,Consumer Defensive,8
+KRN.TO,Basic Materials,3
+KRR.TO,Basic Materials,3
+KXS.TO,Technology,2
+L.TO,Consumer Defensive,8
+LABS.TO,Healthcare,5
+LAC.TO,Basic Materials,3
+LAM.TO,Basic Materials,3
+LB.TO,Financial Services,0
+LBS.TO,Financial Services,0
+LCS.TO,Financial Services,0
+LEAD.TO,unkown,7
+LFE.TO,Financial Services,0
+LGD.TO,Basic Materials,3
+LGO.TO,Basic Materials,3
+LIF.TO,Basic Materials,3
+LIFE.TO,unkown,7
+LN.TO,Basic Materials,3
+LNF.TO,Consumer Cyclical,6
+LNR.TO,Consumer Cyclical,6
+LONG.TO,unkown,7
+LS.TO,unkown,7
+LSPD.TO,Technology,2
+LUC.TO,Basic Materials,3
+LUG.TO,Basic Materials,3
+LUN.TO,Basic Materials,3
+LXR.TO,Consumer Cyclical,6
+MAG.TO,Basic Materials,3
+MAL.TO,Industrials,4
+MARI.TO,Basic Materials,3
+MAV.TO,Consumer Defensive,8
+MAW.TO,Basic Materials,3
+MAX.TO,Basic Materials,3
+MAXR.TO,Technology,2
+MBA.TO,Consumer Defensive,8
+MBAL.TO,unkown,7
+MBCN.TO,Healthcare,5
+MBN.TO,Financial Services,0
+MBX.TO,Healthcare,5
+MCB.TO,Energy,1
+MCLC.TO,unkown,7
+MCON.TO,unkown,7
+MCSB.TO,unkown,7
+MCSM.TO,unkown,7
+MDI.TO,Basic Materials,3
+MDNA.TO,Healthcare,5
+MDVD.TO,unkown,7
+ME.TO,Basic Materials,3
+MEE.TO,unkown,7
+MEG.TO,Energy,1
+MEQ.TO,Real Estate,9
+MEU.TO,unkown,7
+MFC.TO,Financial Services,0
+MFI.TO,Consumer Defensive,8
+MFT.TO,unkown,7
+MG.TO,Consumer Cyclical,6
+MGA.TO,Energy,1
+MGAB.TO,unkown,7
+MGB.TO,unkown,7
+MGRW.TO,unkown,7
+MIC.TO,Financial Services,0
+MIN.TO,Basic Materials,3
+MIND.TO,unkown,7
+MINT.TO,unkown,7
+MIVG.TO,unkown,7
+MKB.TO,unkown,7
+MKC.TO,unkown,7
+MKP.TO,Financial Services,0
+MMX.TO,Basic Materials,3
+MND.TO,Basic Materials,3
+MOGO.TO,Technology,2
+MOZ.TO,Basic Materials,3
+MPC.TO,Real Estate,9
+MPCF.TO,unkown,7
+MPVD.TO,Basic Materials,3
+MRC.TO,Real Estate,9
+MRD.TO,Real Estate,9
+MRE.TO,Consumer Cyclical,6
+MRU.TO,Consumer Defensive,8
+MRV.TO,Healthcare,5
+MSI.TO,Industrials,4
+MSV.TO,Basic Materials,3
+MTL.TO,Industrials,4
+MTY.TO,Consumer Cyclical,6
+MUB.TO,unkown,7
+MULC.TO,unkown,7
+MUMC.TO,unkown,7
+MUS.TO,unkown,7
+MUSC.TO,unkown,7
+MUX.TO,Basic Materials,3
+MWD.TO,unkown,7
+MX.TO,Basic Materials,3
+MXG.TO,Utilities,10
+MXU.TO,unkown,7
+NA.TO,Financial Services,0
+NALT.TO,unkown,7
+NB.TO,Basic Materials,3
+NCF.TO,Basic Materials,3
+NCM.TO,Basic Materials,3
+NCP.TO,Basic Materials,3
+NCU.TO,Basic Materials,3
+NDIV.TO,unkown,7
+NDM.TO,Basic Materials,3
+NEO.TO,Basic Materials,3
+NEPT.TO,Healthcare,5
+NEXA.TO,Basic Materials,3
+NEXT.TO,Basic Materials,3
+NFAM.TO,unkown,7
+NFI.TO,Consumer Cyclical,6
+NG.TO,Basic Materials,3
+NGD.TO,Basic Materials,3
+NGPE.TO,unkown,7
+NGT.TO,Basic Materials,3
+NHK.TO,Basic Materials,3
+NHYB.TO,unkown,7
+NOA.TO,Energy,1
+NPI.TO,Utilities,10
+NPK.TO,Basic Materials,3
+NPRF.TO,unkown,7
+NREA.TO,unkown,7
+NSCB.TO,unkown,7
+NSCE.TO,unkown,7
+NSGE.TO,unkown,7
+NSR.TO,Basic Materials,3
+NTR.TO,Basic Materials,3
+NUAG.TO,Basic Materials,3
+NUBF.TO,unkown,7
+NVA.TO,Energy,1
+NVCN.TO,Healthcare,5
+NVEI.TO,Technology,2
+NVO.TO,Basic Materials,3
+NWC.TO,Consumer Defensive,8
+NXE.TO,Energy,1
+NXF.TO,unkown,7
+NZC.TO,Basic Materials,3
+OBE.TO,Energy,1
+OGC.TO,Basic Materials,3
+OGD.TO,Basic Materials,3
+OGI.TO,Healthcare,5
+OLA.TO,Basic Materials,3
+OLY.TO,Financial Services,0
+OMI.TO,Basic Materials,3
+ONC.TO,Healthcare,5
+ONEB.TO,unkown,7
+ONEC.TO,unkown,7
+ONEQ.TO,unkown,7
+ONEX.TO,Financial Services,0
+OPS.TO,Healthcare,5
+OPT.TO,Technology,2
+OR.TO,Basic Materials,3
+ORA.TO,Basic Materials,3
+OREA.TO,Basic Materials,3
+ORL.TO,Basic Materials,3
+ORV.TO,Basic Materials,3
+OSB.TO,unkown,7
+OSK.TO,Basic Materials,3
+OSP.TO,Financial Services,0
+OTEX.TO,Technology,2
+OVV.TO,Energy,1
+PAAS.TO,Basic Materials,3
+PAT.TO,Technology,2
+PATH.TO,Technology,2
+PAYF.TO,unkown,7
+PBD.TO,unkown,7
+PBH.TO,Consumer Defensive,8
+PBI.TO,unkown,7
+PBL.TO,Consumer Cyclical,6
+PCON.TO,unkown,7
+PCOR.TO,unkown,7
+PD.TO,Energy,1
+PDC.TO,unkown,7
+PDF.TO,unkown,7
+PDIV.TO,unkown,7
+PDV.TO,Financial Services,0
+PEA.TO,Energy,1
+PEY.TO,Energy,1
+PFAE.TO,unkown,7
+PFB.TO,Industrials,4
+PFIA.TO,unkown,7
+PFL.TO,unkown,7
+PFLS.TO,unkown,7
+PFMN.TO,unkown,7
+PFMS.TO,unkown,7
+PG.TO,Basic Materials,3
+PHO.TO,Technology,2
+PHR.TO,unkown,7
+PHW.TO,unkown,7
+PHX.TO,Energy,1
+PHYS.TO,unkown,7
+PID.TO,unkown,7
+PIF.TO,Utilities,10
+PIN.TO,unkown,7
+PINC.TO,unkown,7
+PINV.TO,unkown,7
+PIPE.TO,Energy,1
+PKI.TO,Energy,1
+PL.TO,Basic Materials,3
+PLC.TO,Consumer Cyclical,6
+PLV.TO,unkown,7
+PME.TO,Basic Materials,3
+PMIF.TO,unkown,7
+PMM.TO,unkown,7
+PMN.TO,Healthcare,5
+PMNT.TO,unkown,7
+PMT.TO,Energy,1
+PMTS.TO,Industrials,4
+PNE.TO,Energy,1
+PNP.TO,Financial Services,0
+POM.TO,Basic Materials,3
+POU.TO,Energy,1
+POW.TO,Financial Services,0
+PPL.TO,Energy,1
+PPR.TO,Energy,1
+PPS.TO,unkown,7
+PR.TO,unkown,7
+PRA.TO,unkown,7
+PREF.TO,unkown,7
+PRM.TO,Financial Services,0
+PRMW.TO,Consumer Defensive,8
+PRN.TO,Healthcare,5
+PRP.TO,unkown,7
+PRQ.TO,Energy,1
+PRU.TO,Basic Materials,3
+PSA.TO,unkown,7
+PSB.TO,unkown,7
+PSD.TO,Energy,1
+PSI.TO,Energy,1
+PSK.TO,Energy,1
+PSLV.TO,unkown,7
+PSY.TO,unkown,7
+PTM.TO,Basic Materials,3
+PTS.TO,Communication Services,11
+PUD.TO,unkown,7
+PVG.TO,Basic Materials,3
+PXC.TO,unkown,7
+PXG.TO,unkown,7
+PXS.TO,unkown,7
+PXT.TO,Energy,1
+PYF.TO,unkown,7
+PYR.TO,Industrials,4
+PZA.TO,Consumer Cyclical,6
+PZC.TO,unkown,7
+PZW.TO,unkown,7
+QAH.TO,unkown,7
+QBB.TO,unkown,7
+QBTC.TO,,12
+QBTL.TO,unkown,7
+QCD.TO,unkown,7
+QCE.TO,unkown,7
+QCN.TO,unkown,7
+QDX.TO,unkown,7
+QDXB.TO,unkown,7
+QDXH.TO,unkown,7
+QEBH.TO,unkown,7
+QEBL.TO,unkown,7
+QEC.TO,Energy,1
+QEM.TO,unkown,7
+QHY.TO,unkown,7
+QIE.TO,unkown,7
+QINF.TO,unkown,7
+QMA.TO,unkown,7
+QSB.TO,unkown,7
+QSR.TO,Consumer Cyclical,6
+QTRH.TO,Technology,2
+QUB.TO,unkown,7
+QUIG.TO,unkown,7
+QUS.TO,unkown,7
+QUU.TO,unkown,7
+QXM.TO,unkown,7
+RBA.TO,Industrials,4
+RBDI.TO,unkown,7
+RBNK.TO,unkown,7
+RBO.TO,unkown,7
+RBOT.TO,unkown,7
+RCD.TO,unkown,7
+RCE.TO,unkown,7
+RCG.TO,Financial Services,0
+RCH.TO,Consumer Cyclical,6
+RDL.TO,Technology,2
+REAL.TO,Technology,2
+RECP.TO,Consumer Cyclical,6
+REIT.TO,unkown,7
+RFP.TO,Basic Materials,3
+RID.TO,unkown,7
+RIDH.TO,unkown,7
+RIE.TO,unkown,7
+RIEH.TO,unkown,7
+RIFI.TO,unkown,7
+RIGU.TO,unkown,7
+RIIN.TO,unkown,7
+RIRA.TO,unkown,7
+RIT.TO,unkown,7
+RIV.TO,Healthcare,5
+RLB.TO,unkown,7
+RNW.TO,Utilities,10
+ROOT.TO,Consumer Cyclical,6
+ROXG.TO,Basic Materials,3
+RPD.TO,unkown,7
+RPDH.TO,unkown,7
+RPF.TO,unkown,7
+RPSB.TO,unkown,7
+RQI.TO,unkown,7
+RQJ.TO,unkown,7
+RQK.TO,unkown,7
+RQL.TO,unkown,7
+RQN.TO,unkown,7
+RQO.TO,unkown,7
+RQP.TO,unkown,7
+RS.TO,Financial Services,0
+RSI.TO,Consumer Defensive,8
+RTG.TO,Basic Materials,3
+RUBH.TO,unkown,7
+RUBY.TO,unkown,7
+RUD.TO,unkown,7
+RUDH.TO,unkown,7
+RUE.TO,unkown,7
+RUEH.TO,unkown,7
+RUS.TO,Industrials,4
+RUSB.TO,unkown,7
+RVX.TO,Healthcare,5
+RWC.TO,unkown,7
+RWE.TO,unkown,7
+RWU.TO,unkown,7
+RWW.TO,unkown,7
+RWX.TO,unkown,7
+RXD.TO,unkown,7
+RXE.TO,unkown,7
+RY.TO,Financial Services,0
+S.TO,Basic Materials,3
+SAM.TO,Basic Materials,3
+SAU.TO,Basic Materials,3
+SBB.TO,Basic Materials,3
+SBC.TO,Financial Services,0
+SBI.TO,Basic Materials,3
+SBN.TO,Financial Services,0
+SBR.TO,Basic Materials,3
+SCAD.TO,unkown,7
+SCL.TO,Energy,1
+SCR.TO,Communication Services,11
+SCY.TO,Basic Materials,3
+SEA.TO,Basic Materials,3
+SEC.TO,Financial Services,0
+SES.TO,Energy,1
+SFC.TO,Financial Services,0
+SFD.TO,Energy,1
+SFIX.TO,unkown,7
+SGQ.TO,Energy,1
+SGY.TO,Energy,1
+SHLE.TO,Energy,1
+SHOP.TO,Technology,2
+SIA.TO,Healthcare,5
+SID.TO,unkown,7
+SII.TO,Financial Services,0
+SIL.TO,Basic Materials,3
+SINT.TO,unkown,7
+SIS.TO,Industrials,4
+SJ.TO,Basic Materials,3
+SKE.TO,Basic Materials,3
+SLF.TO,Financial Services,0
+SLR.TO,Basic Materials,3
+SLS.TO,Basic Materials,3
+SMC.TO,Basic Materials,3
+SMT.TO,Basic Materials,3
+SNC.TO,Industrials,4
+SOLG.TO,Basic Materials,3
+SOP.TO,Basic Materials,3
+SOY.TO,Consumer Defensive,8
+SPB.TO,Utilities,10
+SPG.TO,Utilities,10
+SPPP.TO,unkown,7
+SRHI.TO,Basic Materials,3
+SRX.TO,Energy,1
+SSL.TO,Basic Materials,3
+SSRM.TO,Basic Materials,3
+STEP.TO,Energy,1
+STGO.TO,Basic Materials,3
+STLC.TO,Basic Materials,3
+STN.TO,Industrials,4
+STPL.TO,unkown,7
+SU.TO,Energy,1
+SUSA.TO,unkown,7
+SVB.TO,Basic Materials,3
+SVM.TO,Basic Materials,3
+SVR.TO,unkown,7
+SW.TO,Technology,2
+SWH.TO,Consumer Cyclical,6
+SWP.TO,Consumer Defensive,8
+SXI.TO,Utilities,10
+SXP.TO,Consumer Cyclical,6
+SYLD.TO,unkown,7
+SZLS.TO,Healthcare,5
+T.TO,Communication Services,11
+TA.TO,Utilities,10
+TBL.TO,Consumer Cyclical,6
+TC.TO,Technology,2
+TCLB.TO,unkown,7
+TCLV.TO,unkown,7
+TCN.TO,Real Estate,9
+TCS.TO,Technology,2
+TCSB.TO,unkown,7
+TCW.TO,Energy,1
+TD.TO,Financial Services,0
+TDB.TO,unkown,7
+TEC.TO,unkown,7
+TERM.TO,unkown,7
+TEV.TO,Energy,1
+TF.TO,Financial Services,0
+TFII.TO,Industrials,4
+TGFI.TO,unkown,7
+TGGR.TO,unkown,7
+TGL.TO,Energy,1
+TGO.TO,Communication Services,11
+TGOD.TO,Healthcare,5
+TGRE.TO,unkown,7
+TGZ.TO,Basic Materials,3
+TH.TO,Healthcare,5
+The.TO,unkown,7
+THU.TO,unkown,7
+TI.TO,Basic Materials,3
+TIH.TO,Industrials,4
+TILV.TO,unkown,7
+TINF.TO,unkown,7
+TIXT.TO,Technology,2
+TKO.TO,Basic Materials,3
+TLF.TO,unkown,7
+TLG.TO,Basic Materials,3
+TLO.TO,Basic Materials,3
+TLV.TO,unkown,7
+TMD.TO,Healthcare,5
+TMEC.TO,unkown,7
+TMEI.TO,unkown,7
+TMEU.TO,unkown,7
+TML.TO,Basic Materials,3
+TMQ.TO,Basic Materials,3
+TMR.TO,,12
+TNX.TO,Basic Materials,3
+TOCA.TO,unkown,7
+TOCC.TO,unkown,7
+TOCM.TO,unkown,7
+TOG.TO,unkown,7
+TOT.TO,Energy,1
+TOU.TO,Energy,1
+TOY.TO,Consumer Cyclical,6
+TPAY.TO,unkown,7
+TPE.TO,unkown,7
+TPRF.TO,unkown,7
+TPU.TO,unkown,7
+TPZ.TO,Energy,1
+TQCD.TO,unkown,7
+TQGD.TO,unkown,7
+TQGM.TO,unkown,7
+TQSM.TO,unkown,7
+TRI.TO,Industrials,4
+TRIL.TO,Healthcare,5
+TRL.TO,Communication Services,11
+TRP.TO,Energy,1
+TRQ.TO,Basic Materials,3
+TRVL.TO,unkown,7
+TRZ.TO,Consumer Cyclical,6
+TSK.TO,Basic Materials,3
+TSL.TO,Basic Materials,3
+TSU.TO,Financial Services,0
+TTP.TO,unkown,7
+TUED.TO,unkown,7
+TUHY.TO,unkown,7
+TULB.TO,unkown,7
+TULV.TO,unkown,7
+TUSB.TO,unkown,7
+TV.TO,Basic Materials,3
+TVE.TO,Energy,1
+TVK.TO,Energy,1
+TWC.TO,Consumer Cyclical,6
+TWM.TO,Energy,1
+TXF.TO,unkown,7
+TXG.TO,Basic Materials,3
+TXP.TO,Energy,1
+TZS.TO,Financial Services,0
+U.TO,Energy,1
+UDA.TO,unkown,7
+UDIV.TO,unkown,7
+UEX.TO,Basic Materials,3
+UFS.TO,Basic Materials,3
+UMI.TO,unkown,7
+UNC.TO,Financial Services,0
+UNI.TO,Consumer Cyclical,6
+UNS.TO,Consumer Cyclical,6
+URB.TO,Financial Services,0
+URE.TO,Energy,1
+USA.TO,Basic Materials,3
+USB.TO,unkown,7
+UXM.TO,unkown,7
+VA.TO,unkown,7
+VAB.TO,unkown,7
+VB.TO,Financial Services,0
+VBAL.TO,unkown,7
+VBG.TO,unkown,7
+VBU.TO,unkown,7
+VCB.TO,unkown,7
+VCE.TO,unkown,7
+VCIP.TO,unkown,7
+VCM.TO,Technology,2
+VCN.TO,unkown,7
+VCNS.TO,unkown,7
+VDU.TO,unkown,7
+VDY.TO,unkown,7
+VE.TO,unkown,7
+VEE.TO,unkown,7
+VEF.TO,unkown,7
+VEQT.TO,unkown,7
+VET.TO,Energy,1
+VFF.TO,Consumer Defensive,8
+VFV.TO,unkown,7
+VGAB.TO,unkown,7
+VGCX.TO,Basic Materials,3
+VGG.TO,unkown,7
+VGH.TO,unkown,7
+VGRO.TO,unkown,7
+VGV.TO,unkown,7
+VGZ.TO,Basic Materials,3
+VI.TO,unkown,7
+VIDY.TO,unkown,7
+VII.TO,Energy,1
+VIU.TO,unkown,7
+VIVO.TO,Healthcare,5
+VLB.TO,unkown,7
+VLE.TO,Energy,1
+VLN.TO,Industrials,4
+VLNS.TO,unkown,7
+VMD.TO,Healthcare,5
+VMO.TO,unkown,7
+VNP.TO,Basic Materials,3
+VQS.TO,Technology,2
+VRE.TO,unkown,7
+VRIF.TO,unkown,7
+VSB.TO,unkown,7
+VSC.TO,unkown,7
+VSP.TO,unkown,7
+VUN.TO,unkown,7
+VUS.TO,unkown,7
+VVL.TO,unkown,7
+VVO.TO,unkown,7
+VXC.TO,unkown,7
+VXM.TO,unkown,7
+WBR.TO,Consumer Defensive,8
+WCN.TO,Industrials,4
+WCP.TO,Energy,1
+WDO.TO,Basic Materials,3
+WEED.TO,Healthcare,5
+WEF.TO,Basic Materials,3
+WELL.TO,Healthcare,5
+WFC.TO,Real Estate,9
+WFG.TO,Basic Materials,3
+WFS.TO,Financial,13
+WFT.TO,unkown,7
+WILD.TO,Communication Services,11
+WJX.TO,Industrials,4
+WLLW.TO,Healthcare,5
+WM.TO,Basic Materials,3
+WN.TO,Consumer Defensive,8
+WOMN.TO,unkown,7
+WPK.TO,Consumer Cyclical,6
+WPM.TO,Basic Materials,3
+WPRT.TO,Consumer Cyclical,6
+WRG.TO,Energy,1
+WRN.TO,Basic Materials,3
+WRX.TO,Basic Materials,3
+WSP.TO,Industrials,4
+WSRD.TO,unkown,7
+WSRI.TO,unkown,7
+WTE.TO,Industrials,4
+WXM.TO,unkown,7
+X.TO,Financial Services,0
+XAM.TO,Basic Materials,3
+XAU.TO,Financial Services,0
+XAW.TO,unkown,7
+XBAL.TO,unkown,7
+XBB.TO,unkown,7
+XBC.TO,Industrials,4
+XBM.TO,unkown,7
+XCB.TO,unkown,7
+XCD.TO,unkown,7
+XCG.TO,unkown,7
+XCH.TO,unkown,7
+XCNS.TO,unkown,7
+XCS.TO,unkown,7
+XCSR.TO,unkown,7
+XCT.TO,Technology,2
+XCV.TO,unkown,7
+XDG.TO,unkown,7
+XDGH.TO,unkown,7
+XDIV.TO,unkown,7
+XDSR.TO,unkown,7
+XDU.TO,unkown,7
+XDUH.TO,unkown,7
+XDV.TO,unkown,7
+XEB.TO,unkown,7
+XEC.TO,unkown,7
+XEF.TO,unkown,7
+XEG.TO,unkown,7
+XEH.TO,unkown,7
+XEI.TO,unkown,7
+XEM.TO,unkown,7
+XEN.TO,unkown,7
+XEQT.TO,unkown,7
+XESG.TO,unkown,7
+XEU.TO,unkown,7
+XFA.TO,unkown,7
+XFC.TO,unkown,7
+XFF.TO,unkown,7
+XFH.TO,unkown,7
+XFI.TO,unkown,7
+XFN.TO,unkown,7
+XFR.TO,unkown,7
+XFS.TO,unkown,7
+XGB.TO,unkown,7
+XGD.TO,unkown,7
+XGI.TO,unkown,7
+XGRO.TO,unkown,7
+XHB.TO,unkown,7
+XHC.TO,unkown,7
+XHD.TO,unkown,7
+XHU.TO,unkown,7
+XHY.TO,unkown,7
+XIC.TO,unkown,7
+XID.TO,unkown,7
+XIG.TO,unkown,7
+XINC.TO,unkown,7
+XIT.TO,unkown,7
+XIU.TO,unkown,7
+XLB.TO,unkown,7
+XMA.TO,unkown,7
+XMC.TO,unkown,7
+XMH.TO,unkown,7
+XMI.TO,unkown,7
+XML.TO,unkown,7
+XMM.TO,unkown,7
+XMS.TO,unkown,7
+XMTM.TO,unkown,7
+XMU.TO,unkown,7
+XMV.TO,unkown,7
+XMW.TO,unkown,7
+XMY.TO,unkown,7
+XPF.TO,unkown,7
+XQB.TO,unkown,7
+XQLT.TO,unkown,7
+XQQ.TO,unkown,7
+XRB.TO,unkown,7
+XRE.TO,unkown,7
+XSAB.TO,unkown,7
+XSB.TO,unkown,7
+XSC.TO,unkown,7
+XSE.TO,unkown,7
+XSEA.TO,unkown,7
+XSEM.TO,unkown,7
+XSH.TO,unkown,7
+XSI.TO,unkown,7
+XSMC.TO,unkown,7
+XSMH.TO,unkown,7
+XSP.TO,unkown,7
+XSQ.TO,unkown,7
+XST.TO,unkown,7
+XSTB.TO,unkown,7
+XSU.TO,unkown,7
+XSUS.TO,unkown,7
+XTC.TO,Consumer Cyclical,6
+XTD.TO,Financial Services,0
+XTG.TO,Basic Materials,3
+XTR.TO,unkown,7
+XUH.TO,unkown,7
+XUS.TO,unkown,7
+XUSR.TO,unkown,7
+XUT.TO,unkown,7
+XUU.TO,unkown,7
+XVLU.TO,unkown,7
+XWD.TO,unkown,7
+XXM.TO,unkown,7
+Y.TO,Communication Services,11
+YCM.TO,Financial Services,0
+YGR.TO,Energy,1
+YRB.TO,Basic Materials,3
+YRI.TO,Basic Materials,3
+YXM.TO,unkown,7
+ZAG.TO,unkown,7
+ZAUT.TO,unkown,7
+ZBAL.TO,unkown,7
+ZBBB.TO,unkown,7
+ZBK.TO,unkown,7
+ZCB.TO,unkown,7
+ZCH.TO,unkown,7
+ZCLN.TO,unkown,7
+ZCM.TO,unkown,7
+ZCN.TO,unkown,7
+ZCON.TO,unkown,7
+ZCPB.TO,unkown,7
+ZCS.TO,unkown,7
+ZDB.TO,unkown,7
+ZDH.TO,unkown,7
+ZDI.TO,unkown,7
+ZDJ.TO,unkown,7
+ZDM.TO,unkown,7
+ZDV.TO,unkown,7
+ZDY.TO,unkown,7
+ZEA.TO,unkown,7
+ZEB.TO,unkown,7
+ZEF.TO,unkown,7
+ZEM.TO,unkown,7
+ZENA.TO,Healthcare,5
+ZEO.TO,unkown,7
+ZEQ.TO,unkown,7
+ZESG.TO,unkown,7
+ZFC.TO,unkown,7
+ZFH.TO,unkown,7
+ZFIN.TO,unkown,7
+ZFL.TO,unkown,7
+ZFM.TO,unkown,7
+ZFN.TO,unkown,7
+ZFS.TO,unkown,7
+ZGB.TO,unkown,7
+ZGD.TO,unkown,7
+ZGEN.TO,unkown,7
+ZGI.TO,unkown,7
+ZGQ.TO,unkown,7
+ZGRO.TO,unkown,7
+ZGSB.TO,unkown,7
+ZHP.TO,unkown,7
+ZHU.TO,unkown,7
+ZHY.TO,unkown,7
+ZIC.TO,unkown,7
+ZID.TO,unkown,7
+ZIN.TO,unkown,7
+ZINN.TO,unkown,7
+ZINT.TO,unkown,7
+ZJG.TO,unkown,7
+ZJK.TO,unkown,7
+ZLB.TO,unkown,7
+ZLC.TO,unkown,7
+ZLD.TO,unkown,7
+ZLE.TO,unkown,7
+ZLH.TO,unkown,7
+ZLI.TO,unkown,7
+ZLU.TO,unkown,7
+ZMBS.TO,unkown,7
+ZMI.TO,unkown,7
+ZMID.TO,unkown,7
+ZMP.TO,unkown,7
+ZMSB.TO,unkown,7
+ZMT.TO,unkown,7
+ZMU.TO,unkown,7
+ZNQ.TO,unkown,7
+ZPAY.TO,unkown,7
+ZPH.TO,unkown,7
+ZPL.TO,unkown,7
+ZPR.TO,unkown,7
+ZPS.TO,unkown,7
+ZPW.TO,unkown,7
+ZQB.TO,unkown,7
+ZQQ.TO,unkown,7
+ZRE.TO,unkown,7
+ZRR.TO,unkown,7
+ZSB.TO,unkown,7
+ZSML.TO,unkown,7
+ZSP.TO,unkown,7
+ZST.TO,unkown,7
+ZSU.TO,unkown,7
+ZTIP.TO,unkown,7
+ZUB.TO,unkown,7
+ZUD.TO,unkown,7
+ZUE.TO,unkown,7
+ZUH.TO,unkown,7
+ZUP.TO,unkown,7
+ZUQ.TO,unkown,7
+ZUT.TO,unkown,7
+ZVC.TO,unkown,7
+ZVU.TO,unkown,7
+ZWA.TO,unkown,7
+ZWB.TO,unkown,7
+ZWC.TO,unkown,7
+ZWE.TO,unkown,7
+ZWG.TO,unkown,7
+ZWH.TO,unkown,7
+ZWK.TO,unkown,7
+ZWP.TO,unkown,7
+ZWS.TO,unkown,7
+ZWT.TO,unkown,7
+ZWU.TO,unkown,7
+ZXM.TO,unkown,7
+ZZZ.TO,Consumer Cyclical,6
+ZZZD.TO,unkown,7
